@@ -3,3 +3,8 @@ version: 1.0.0
 author: Muqsit
 api: 1.12.0
 main: Muqsit/Daily/Daily
+commands:
+  daily:
+    description: Collect your daily items
+    usage: /daily
+    aliases: [dailyrewards, rewards]
